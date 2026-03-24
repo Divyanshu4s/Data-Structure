@@ -1,5 +1,5 @@
 //Leetcode->3212
-
+https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/?envType=daily-question&envId=2026-03-24
 class Solution {
     public int numberOfSubmatrices(char[][] grid) {
         int n = grid.length;        // number of rows
